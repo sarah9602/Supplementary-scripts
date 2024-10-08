@@ -8,7 +8,7 @@ sampdir=/PATH/TO/PROCESSED/READS
 ```
 
 ## ------- Assembly - submit each sample through assembly pipeline -------
-See [assembly_pipeline_template.sh](https://github.com/sarah9602/Supplementary-scripts/assembly_pipeline_template.sh) using HPC with SLURM queing system
+See [assembly_pipeline_template.sh](https://github.com/sarah9602/Supplementary-scripts/blob/main/assembly_pipeline_template.sh) using HPC with SLURM queing system
 Process is as follows:
 **Megahit**
 -k-min 21 
