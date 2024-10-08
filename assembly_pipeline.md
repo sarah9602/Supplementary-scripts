@@ -58,7 +58,7 @@ This doesn't require high performance computing. Binning is output directory tha
 **See [checkm](https://github.com/Ecogenomics/CheckM?tab=readme-ov-file) for installation instructions.**
 
 **OR Load conda environment**
-[checkm.yml](https://github.com/sarah9602/Supplementary-scripts/checkm.yml)
+[checkm.yml](https://github.com/sarah9602/Supplementary-scripts/blob/main/checkm.yml)
 ```bash
 conda env create --name checkm checkm.yml
 ```
